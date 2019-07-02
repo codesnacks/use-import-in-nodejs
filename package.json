@@ -1,0 +1,16 @@
+{
+  "name": "import-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules index.js"
+  },
+  "keywords": ["import", "es modules", "nodejs"],
+  "author": "Benjamin Mock - codesnacks.net",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
